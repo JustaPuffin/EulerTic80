@@ -3,7 +3,7 @@ A collection of attempted solutions for Problems on Project Euler in most langua
 
 ## Progress
 ### Fennel
-- [ ] Problem 0001: ---
+- [X] Problem 0001: 0.2 s
 ### Janet
 - [ ] Problem 0001: ---
 ### Javascript
