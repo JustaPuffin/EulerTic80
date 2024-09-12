@@ -13,15 +13,15 @@ A collection of attempted solutions for Problems on Project Euler in most langua
 ### MoonScript
 - [ ] Problem 0001: ---
 ### Python
-- [X] Problem 0001: 0-10 ms
+- [X] Problem 0001:   5 ms
 - [X] Problem 0002: 2.4 s
-- [ ] Problem 0003: ---
-- [ ] Problem 0004: ---
-- [ ] Problem 0005: ---
-- [ ] Problem 0006: ---
-- [ ] Problem 0007: ---
-- [ ] Problem 0008: ---
-- [ ] Problem 0009: ---
+- [X] Problem 0003: 2.8 s
+- [X] Problem 0004: 0.6 s
+- [X] Problem 0005: 3.8 s
+- [X] Problem 0006:   8 ms
+- [X] Problem 0007: 4.7 s
+- [X] Problem 0008:  11 ms
+- [X] Problem 0009:  32 ms
 - [ ] Problem 0010: ---
 - [ ] Problem 0011: ---
 - [ ] Problem 0012: ---
